@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Example portfolio page
+
+Used technologies:
+<ol>
+<li>html</li>
+<li>css</li>
+<li>typescript</li>
+<li>bootstrap</li>
+<li>JSON</li>
+
+
+</ol>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
