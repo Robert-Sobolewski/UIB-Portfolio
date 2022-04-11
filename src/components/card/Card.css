@@ -1,0 +1,86 @@
+/* cards */
+.fa-html5 {
+    color: #E44D26;
+}
+
+.fa-css3-alt {
+    color: #0070BA;
+}
+
+.fa-js {
+    color: #63A814;
+}
+
+.fa-python {
+    color: #0162B1;
+}
+
+.fa-node-js {
+    color: #74B141;
+}
+
+.fa-react {
+    color: #00D1F7;
+}
+
+.fa {
+    font-family: "Font Awesome 6 Pro";
+}
+
+.btn-primary {
+    background-color: #000;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #000;
+    background-image: linear-gradient(rgba(255, 245, 191, 0.664), rgba(255, 255, 255, 0.678));
+    border: solid 1px #fff5bf;
+}
+
+@keyframes rotate-icon {
+    to {
+        transform: rotateY(360deg);
+    }
+}
+
+.card #i1 {
+    animation: rotate-icon 4s linear infinite 100ms;
+}
+
+.card #i2 {
+    animation: rotate-icon 4s linear infinite 200ms;
+}
+
+.card #i3 {
+    animation: rotate-icon 4s linear infinite 300ms;
+}
+
+.card #i4 {
+    animation: rotate-icon 4s linear infinite 400ms;
+}
+
+.card #i5 {
+    animation: rotate-icon 4s linear infinite 500ms;
+}
+
+.card #i6 {
+    animation: rotate-icon 4s linear infinite 600ms;
+}
+
+.card #i7 {
+    animation: rotate-icon 4s linear infinite 700ms;
+}
+
+.card #i8 {
+    animation: rotate-icon 4s linear infinite 800ms;
+}
+
+.card #i9 {
+    animation: rotate-icon 4s linear infinite 900ms;
+}
+
+.card i {
+    transform-origin: 50% 100%;
+    filter: drop-shadow(4px 4px 3px #000);
+}

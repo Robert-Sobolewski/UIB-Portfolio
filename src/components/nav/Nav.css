@@ -1,0 +1,23 @@
+:root {
+    font-size: 16px;
+}
+
+body {
+    font-family: "Modern Antiqua", cursive;
+    font-size: 1.4em;
+    position: relative;
+}
+
+.navbar-brand {
+    background: #fff;
+    border-radius: 10px;
+}
+
+.nav-item {
+    position: relative;
+}
+
+
+.nav-link {
+    text-shadow: 2px 0px 2px #000;
+}

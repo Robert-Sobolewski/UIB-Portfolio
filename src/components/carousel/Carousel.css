@@ -1,0 +1,44 @@
+.carousel-inner {
+    overflow: visible;
+}
+
+/* carousel */
+.carousel {
+    margin-top: 5em !important;
+}
+
+.carousel-item {
+    position: relative;
+    margin-right: -50%;
+}
+
+.carousel-indicators li {
+    cursor: pointer;
+}
+
+.carousel-item img {
+    height: 500px;
+    width: 60% !important;
+}
+
+.carousel-caption {
+    color: black;
+    background-color: #7f9ea5;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 50%;
+    height: 100%;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 43%, 100% 75%, 100% 100%, 0 100%, 7% 74%, 13% 53%, 8% 28%);
+    clip-path: polygon(0 0, 100% 0, 100% 43%, 100% 75%, 100% 100%, 0 100%, 7% 74%, 13% 53%, 8% 28%);
+}
+
+.carousel-caption h2,
+.carousel-caption .h2 {
+    text-shadow: 2px 0px 2px #fff;
+}
+
+.carousel-caption p {
+    width: 70%;
+    margin: 1em auto;
+}

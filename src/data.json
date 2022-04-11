@@ -1,0 +1,108 @@
+{
+    "nav": [
+        "Home",
+        "Portfolio",
+        "Services",
+        "Contact",
+        "About me"
+    ],
+    "carousel": [
+        {
+            "img": "https://cdn.pixabay.com/photo/2015/09/05/20/02/coding-924920_960_720.jpg",
+            "title": "Provide high quality solutions",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque quaerat at impedit laborum illo consectetur laudantium dolorum velit facere harum?"
+        },
+        {
+            "img": "https://cdn.pixabay.com/photo/2016/12/29/12/27/cyber-glasses-1938449_960_720.jpg",
+            "title": "Give you new experience",
+            "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic mollitia totam, deleniti porro inventore laboriosam officiis sunt accusantium temporibus iusto!"
+        },
+        {
+            "img": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_960_720.jpg",
+            "title": "Delivery high quality code",
+            "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis illo hic minus sint porro ad sapiente eos fugiat repellat odio?"
+        }
+    ],
+    "cards": [
+        {
+            "icon": "fa-html5",
+            "title": "HTML 5",
+            "desc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "href": "#",
+            "btn_text": "Go somewhere"
+        },
+        {
+            "icon": "fa-css3-alt",
+            "title": "CSS 3",
+            "desc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "href": "#",
+            "btn_text": "Go somewhere"
+        },
+        {
+            "icon": "fa-js",
+            "title": "JAVASCRIPT",
+            "desc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "href": "#",
+            "btn_text": "Go somewhere"
+        },
+        {
+            "icon": "fa-python",
+            "title": "PYTHON",
+            "desc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "href": "#",
+            "btn_text": "Go somewhere"
+        },
+        {
+            "icon": "fa-node-js",
+            "title": "NODE JS",
+            "desc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "href": "#",
+            "btn_text": "Go somewhere"
+        },
+        {
+            "icon": "fa-react",
+            "title": "REACT JS",
+            "desc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "href": "#",
+            "btn_text": "Go somewhere"
+        }
+    ],
+    "services": [
+        {
+            "image": "https://cdn.pixabay.com/photo/2017/09/12/09/45/industry-4-2741774_960_720.png",
+            "title": "Innovative Solutions",
+            "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam deleniti repellendus qui odio a unde id cum distinctio possimus suscipit."
+        },
+        {
+            "image": "https://cdn.pixabay.com/photo/2017/07/12/08/36/industry-2496200_960_720.jpg",
+            "title": "Scalable Solutions",
+            "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis expedita eaque, distinctio mollitia unde omnis ratione repudiandae, qui aspernatur assumenda ex adipisci. Quaerat, qui laboriosam!"
+        },
+        {
+            "image": "https://cdn.pixabay.com/photo/2017/07/12/08/33/industry-2496188_960_720.jpg",
+            "title": "For Everyone",
+            "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus perferendis explicabo vero consectetur saepe aut mollitia? Voluptatibus nihil quae assumenda sapiente cum, porro amet! Cum fugiat nisi iusto quae!"
+        }
+    ],
+    "contact": {
+        "phone": "+49 (111) 111 111",
+        "address": "BergStr. 5 Lützelbach",
+        "email": "example@google.com"
+    },
+    "about": {
+        "name": "ROBERT SOBOLEWSKI",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.1&auto=format&fit=crop&w=334&q=80",
+        "title": "I'm Experienced Web App & Machine Learning Developer",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. Aliquam in felis sit amet augue.",
+        "frontend": {
+            "html": "65%",
+            "css": "70%",
+            "js": "85%"
+        },
+        "backend": {
+            "asp_net": "45%",
+            "node_js": "80%",
+            "python": "65%"
+        }
+    }
+}
