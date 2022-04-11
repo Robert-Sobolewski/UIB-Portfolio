@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uib-portfolio/static/css/main.7e95fa5c.css",
+    "main.js": "/uib-portfolio/static/js/main.8d5c6a42.js",
+    "static/js/787.093dc7d3.chunk.js": "/uib-portfolio/static/js/787.093dc7d3.chunk.js",
+    "static/media/logo.png": "/uib-portfolio/static/media/logo.f4544ad9b9a01e78bb02.png",
+    "index.html": "/uib-portfolio/index.html",
+    "main.7e95fa5c.css.map": "/uib-portfolio/static/css/main.7e95fa5c.css.map",
+    "main.8d5c6a42.js.map": "/uib-portfolio/static/js/main.8d5c6a42.js.map",
+    "787.093dc7d3.chunk.js.map": "/uib-portfolio/static/js/787.093dc7d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e95fa5c.css",
+    "static/js/main.8d5c6a42.js"
+  ]
+}
