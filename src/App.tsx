@@ -15,13 +15,13 @@ function App() {
   }, []);
   const [data, setData] = useState<any>(null);
   return (
-    <div className="App">
+    <div id="home" className="App">
       <Nav data={data}></Nav>
       <Carousel data={data}></Carousel>
-      {/* <Card data={data}></Card> */}
-      {/* <Service data={data}></Service>
+      <Card data={data}></Card>
+      <Service data={data}></Service>
       <Contact data={data}></Contact>
-      <About data={data}></About> */}
+      <About data={data}></About>
     </div>
   );
 }

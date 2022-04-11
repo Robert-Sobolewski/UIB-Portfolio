@@ -6,13 +6,13 @@ function Card(props: any) {
   console.log(props);
   return (
     <div id="portfolio">
-      <h1 className="text-center m-4">Portfolio</h1>
+      <h1 className="text-center m-5">Portfolio</h1>
       <div className="container">
         <div className="row d-flex justify-content-around">
           {props.data &&
-            props.data[2].cards.map((c: any) => (
+            props.data.cards.map((c: any, index: number) => (
               <div
-                key="{c}"
+                key={index}
                 className="card mb-5"
                 style={{ width: 18 + "rem" }}
               >

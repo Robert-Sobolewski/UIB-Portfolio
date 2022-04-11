@@ -2,8 +2,8 @@ import React from "react";
 
 function Contact(props: any) {
   return (
-    <div id="contact" className="p-5">
-      <h1 className="text-center m-4">Contact</h1>
+    <div id="contact" className="">
+      <h1 className="text-center m-5">Contact</h1>
       <br />
       <section className="pb-5 pt-0">
         <div className="container-fluid p-0 pb-3">
@@ -87,7 +87,7 @@ function Contact(props: any) {
                 />
 
                 <p className="text-h3">
-                  {props.data && props.data[4].contact.phone}
+                  {props.data && props.data.contact.phone}
                 </p>
               </div>
 
@@ -99,7 +99,7 @@ function Contact(props: any) {
                   src="http://via.placeholder.com/80x80/5fa9f8/efefef"
                 />
                 <p className="text-h3">
-                  {props.data && props.data[4].contact.address}
+                  {props.data && props.data.contact.address}
                 </p>
               </div>
 
@@ -111,7 +111,7 @@ function Contact(props: any) {
                   src="http://via.placeholder.com/80x80/5fa9f8/efefef"
                 />
                 <p className="text-h3">
-                  {props.data && props.data[4].contact.email}
+                  {props.data && props.data.contact.email}
                 </p>
               </div>
             </div>
